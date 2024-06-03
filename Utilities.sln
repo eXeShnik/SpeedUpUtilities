@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranslationToKey", "TranslationToKey\TranslationToKey.csproj", "{2B081489-96B9-4328-A809-A428BAA0F9A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiImagesToBaseSize", "MauiImagesToBaseSize\MauiImagesToBaseSize.csproj", "{6759644E-354F-4A82-87B8-266C7702B193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateKeysFromResx", "GenerateKeysFromResx\GenerateKeysFromResx.csproj", "{0197B629-B8CA-43DF-B3D6-8DEEC12B4AD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Release Compat|Any CPU = Release Compat|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B081489-96B9-4328-A809-A428BAA0F9A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B081489-96B9-4328-A809-A428BAA0F9A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B081489-96B9-4328-A809-A428BAA0F9A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B081489-96B9-4328-A809-A428BAA0F9A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B081489-96B9-4328-A809-A428BAA0F9A7}.Release Compat|Any CPU.ActiveCfg = Release Compat|Any CPU
+		{2B081489-96B9-4328-A809-A428BAA0F9A7}.Release Compat|Any CPU.Build.0 = Release Compat|Any CPU
+		{6759644E-354F-4A82-87B8-266C7702B193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6759644E-354F-4A82-87B8-266C7702B193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6759644E-354F-4A82-87B8-266C7702B193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6759644E-354F-4A82-87B8-266C7702B193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6759644E-354F-4A82-87B8-266C7702B193}.Release Compat|Any CPU.ActiveCfg = Debug|Any CPU
+		{6759644E-354F-4A82-87B8-266C7702B193}.Release Compat|Any CPU.Build.0 = Debug|Any CPU
+		{0197B629-B8CA-43DF-B3D6-8DEEC12B4AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0197B629-B8CA-43DF-B3D6-8DEEC12B4AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0197B629-B8CA-43DF-B3D6-8DEEC12B4AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0197B629-B8CA-43DF-B3D6-8DEEC12B4AD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0197B629-B8CA-43DF-B3D6-8DEEC12B4AD9}.Release Compat|Any CPU.ActiveCfg = Debug|Any CPU
+		{0197B629-B8CA-43DF-B3D6-8DEEC12B4AD9}.Release Compat|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
