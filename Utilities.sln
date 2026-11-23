@@ -8,6 +8,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateKeysFromResx", "Gen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppThemeBindingToDynamicResource", "AppThemeBindingToDynamicResource\AppThemeBindingToDynamicResource.csproj", "{8EB73C17-1D03-4044-91D4-CB90E7D3A1AC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmptyConsole", "EmptyConsole\EmptyConsole.csproj", "{8E3E2824-0AAB-4C53-B04F-CE23239FBA10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexAddStringLimit", "RegexAddStringLimit\RegexAddStringLimit.csproj", "{C034A716-139E-4EB9-AF34-87041228A987}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenameAndroidResources", "RenameAndroidResources\RenameAndroidResources.csproj", "{49FB72D4-6E54-4C96-B941-3AC066AC9838}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,5 +45,26 @@ Global
 		{8EB73C17-1D03-4044-91D4-CB90E7D3A1AC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8EB73C17-1D03-4044-91D4-CB90E7D3A1AC}.Release Compat|Any CPU.ActiveCfg = Debug|Any CPU
 		{8EB73C17-1D03-4044-91D4-CB90E7D3A1AC}.Release Compat|Any CPU.Build.0 = Debug|Any CPU
+		{8E3E2824-0AAB-4C53-B04F-CE23239FBA10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E3E2824-0AAB-4C53-B04F-CE23239FBA10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E3E2824-0AAB-4C53-B04F-CE23239FBA10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E3E2824-0AAB-4C53-B04F-CE23239FBA10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E3E2824-0AAB-4C53-B04F-CE23239FBA10}.Release Compat|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E3E2824-0AAB-4C53-B04F-CE23239FBA10}.Release Compat|Any CPU.Build.0 = Debug|Any CPU
+		{C034A716-139E-4EB9-AF34-87041228A987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C034A716-139E-4EB9-AF34-87041228A987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C034A716-139E-4EB9-AF34-87041228A987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C034A716-139E-4EB9-AF34-87041228A987}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C034A716-139E-4EB9-AF34-87041228A987}.Release Compat|Any CPU.ActiveCfg = Debug|Any CPU
+		{C034A716-139E-4EB9-AF34-87041228A987}.Release Compat|Any CPU.Build.0 = Debug|Any CPU
+		{49FB72D4-6E54-4C96-B941-3AC066AC9838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49FB72D4-6E54-4C96-B941-3AC066AC9838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49FB72D4-6E54-4C96-B941-3AC066AC9838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49FB72D4-6E54-4C96-B941-3AC066AC9838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49FB72D4-6E54-4C96-B941-3AC066AC9838}.Release Compat|Any CPU.ActiveCfg = Debug|Any CPU
+		{49FB72D4-6E54-4C96-B941-3AC066AC9838}.Release Compat|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
